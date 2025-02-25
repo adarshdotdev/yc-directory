@@ -4,6 +4,8 @@ A dynamic platform where entrepreneurs can submit their startup ideas, participa
 
 ---
 
+![preview](/preview.png)
+
 ## ✨ Features
 
 - **Live Content API** – Displays real-time startup ideas dynamically using **Sanity's Content API**.
